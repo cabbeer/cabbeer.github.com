@@ -91,7 +91,7 @@ article img {
 #slide5:checked ~ #controls label:nth-child(4) {
     background: url('/images/prev.png') no-repeat;
     float: left;
-    margin: -50px 0 0 -70px;
+    margin: -50px 0 0 -50px;
     display: block;
     background-size: 60%;
 }
