@@ -247,7 +247,7 @@ blockquote, blockquote p {
 }
 /************ Basic *************/
 body {
-  font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
+  font-family: "calendas_plusregular",sans-serif;
   -webkit-font-smoothing: antialiased;
   min-height: 100%;
   height: 100%;
