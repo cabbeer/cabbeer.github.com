@@ -249,9 +249,6 @@ blockquote, blockquote p {
 body {
   font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
   -webkit-font-smoothing: antialiased;
-  /* Fix for webkit rendering */
-  text-size-adjust: 100%;
-  background: EBE9E4;
   min-height: 100%;
   height: 100%;
   overflow-x: hidden;
@@ -394,7 +391,6 @@ input {
 #bump {
   min-height: 100%;
   height: auto;
-  margin: 0 auto-320px;
 }
 
 .wrap {
@@ -741,7 +737,7 @@ footer .prev-posts {
   float: left;
   width: 45%;
   margin: 0 0.5% 0 0.2%;
-  max-width: 600px;  ;  
+  max-width: 600px;  
   padding: .5em 4% 0 1.5%;
   height: 100%;
 }
@@ -1283,7 +1279,6 @@ nav.expanded #navigation {
 
 /* icon colour */
 .icon:before, .icon:active:before {
-    color: color: #ff4d0c;
     color: #CBE86B;
 }
 
@@ -1425,7 +1420,6 @@ footer .list-title:after {
 content: '';
 display: block;
 position: absolute;
-top: 2;
 height: 2px;
 width: 30px;
 background: #dededc;
@@ -1520,6 +1514,8 @@ width: 90%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
    }
+
+
 
    .workitemdescription h3 {
     font-size: 12px;}
@@ -1714,20 +1710,3 @@ border-radius: 3px;
 
 /* Brain Dump
    ========================================================================== */
-
-
-
-   .abbg {
-  background-image: url('http://i.imgur.com/KwDPbNr.gif?1') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  
-  position: absolute;
-  -webkit-animation-name: fade-in;
-  -webkit-animation-duration: 1s;
-  -webkit-animation-timing-function: ease-in;
-  -webkit-animation-iteration-count: 1;
-  -webkit-animation-delay: 2s;
-   }
