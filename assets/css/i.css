@@ -1057,7 +1057,7 @@ a:link, a:visited {
 }
 
 a:hover {
-    color: #2980b9;
+    color: #BDD964 !important;
     text-decoration: underline;
 }
 
@@ -1439,7 +1439,8 @@ footer .prev-posts li:first-child {
 /* Index/ About
    ========================================================================== */
 .aboutpage{
-  max-width: 662px;
+  max-width: 680px;
+  margin: 0 auto;
 }
 
 .aboutpage h1 {
@@ -1518,7 +1519,7 @@ width: 90%;
 
 
    .workitemdescription h3 {
-    font-size: 12px;}
+    font-size: .8em;}
 
    .workitemdescription p {
     font-size: 1em;
@@ -1619,6 +1620,7 @@ margin: 0 auto;
 
 .post-header p:first-child {
   padding-bottom: 15px;
+  margin-bottom: -25px;
 }
 
 
@@ -1696,7 +1698,7 @@ color: #fff !important;
    ========================================================================== */
 
 
-#Field107, #Field109, #Field112  {
+li div input  {
     width: 90%;
 padding: 12px;
 border: none;
@@ -1725,3 +1727,148 @@ border-radius: 3px;
 
 /* Brain Dump
    ========================================================================== */
+
+
+/* Fade-in
+   ========================================================================== */
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+  opacity:0; /*This makes things invisible upon start*/
+  -webkit-animation:fadeIn ease-in 1; /*Call our keyframe named fadeIn, use animation ease-in and repeat it only 1 time*/
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+  
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+  
+  -webkit-animation-duration:0.7s;
+  -moz-animation-duration:0.7s;
+  animation-duration:0.7s;
+}
+
+.fade-in.one {
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+
+.fade-in.two {
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay: 1.2s;
+  animation-delay: 1.2s;
+}
+
+.fade-in.three {
+  -webkit-animation-delay: 1.6s;
+  -moz-animation-delay: 1.6s;
+  animation-delay: 1.6s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  ==================================================================
+    Media Queries
+    ================================================================== */
+
+
+
+
+
+
+/* Tablet Portrait size to Tablet Landscape (devices and browsers)
+   ========================================================================= */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+
+
+}
+
+
+/* All Mobile Sizes (devices and browsers)
+   ========================================================================= */
+@media only screen and (max-width: 767px) {
+
+
+
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers)
+   ========================================================================= */
+@media only screen and (min-width: 480px) and (max-width: 777px) {
+    
+/*  Navigation  */
+
+#navigation ul span {
+  font-size: 1em;
+}
+
+#navigation ul a {
+  font-size: 4.5em;
+}
+
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers)
+   ========================================================================== */
+@media only screen and (max-width: 652px) {
+
+
+
+
+
+/*  About  */
+
+.workitemdescription {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.workitemdescription p {
+font-size: 1.5em;
+}
+
+.workitemlogo {
+  width: 100%;
+}
+
+.workitemlogo img {
+  max-width: 75%;
+}
+
+
+
+
+
+}
