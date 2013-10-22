@@ -1,0 +1,13 @@
+input.medium, select.medium {
+width: 50%;
+width: 90%;
+padding: 12px;
+border: none;
+font-family: inherit;
+font-size: 0.875em;
+border: 1px solid #ddd;
+background-color: #fff;
+border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+}
