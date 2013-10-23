@@ -156,7 +156,7 @@ p {
 /* Headings
    ========================================================================== */
 h1, .h1 {
-  font-size: 64px;
+  font-size: 57px;
   color: #31302e;
 }
 
@@ -247,16 +247,16 @@ blockquote, blockquote p {
 }
 /************ Basic *************/
 body {
-  font-family: "calendas_plusregular",sans-serif;
+  font-family: "calendas_plusregular", "Georgia", serif;
   -webkit-font-smoothing: antialiased;
   min-height: 100%;
   height: 100%;
   overflow-x: hidden;
-  background: #Ffffff;
+  background: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
+  font-family: "calendas_plusitalic", "Georgia", serif;
 }
 
 p {
@@ -306,46 +306,10 @@ small {
 
 blockquote, blockquote p {
   font-style: italic;
-  line-height: 1.3em;
-  text-align: center;
   color: #3c3c3c;
   font-size: 22px !important;
   text-align: center;
-}
-
-/*   Code Formatting    */
-code {
-  color: #24536b;
-  font-family: "Monaco", "Courier New", "Courier";
-  font-size: .75em;
-  font-weight: bold;
-}
-
-.highlight {
-  background: #3b3b3b;
-  padding: 12px;
-  border-radius: 4px;
-  margin-bottom: 33px;
-  overflow-x: scroll;
-}
-.highlight code {
-  color: #f9f9f9;
-  font-family: "Monaco", "Courier New", "Courier";
-  font-size: .9em;
-}
-.highlight code .lineno {
-  margin-right: 16.5px;
-  color: #d9d9d9;
-  line-height: 2em;
-}
-.highlight code .nt {
-  color: #c85b5c;
-}
-.highlight code .na {
-  color: #f0e687;
-}
-.highlight code .s {
-  color: #87ceeb;
+  font-family: "calendas_plusitalic";
 }
 
 hr {
@@ -366,7 +330,7 @@ input {
   background: none;
   outline: none;
   width: 100%;
-  font-family: "Calendas Plus", "Crimson Text", "Hoefler Text", "Georgia", serif;
+  font-family: "calendas_plusregular", "Georgia", serif;
 }
 .archive input:focus {
   background: white;
@@ -474,7 +438,7 @@ input {
   margin-top: 0;
 }
 .article header hgroup .date {
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   font-size: 16px;
   font-weight: bold;
   color: #d9d9d9;
@@ -531,7 +495,7 @@ float: none;
 .archive-wrap .post-list li a {
   position: relative;        
   color: #352C38;
-  font-family: 'Calendas Plus', 'Crimson Text', 'Hoefler Text', Georgia, serif;
+  font-family: 'calendas_plusregular', Georgia, serif;
 }
 .archive-wrap .post-list li a:hover {
   -moz-transition: all 1s ease-in-out;
@@ -550,6 +514,7 @@ text-decoration: underline;
   line-height: 1.25em;
   text-align: center;
   max-width: 800px;
+  font-family: "calendas_plusregular";
 }
 .archive-wrap .post-list .summary {
   font-size: 18px;
@@ -564,7 +529,7 @@ text-decoration: underline;
   top: -3px;
   font-size: 16px;
   font-weight: bold;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   font-style: normal;
   color: #d9d9d9;
   text-transform: uppercase;
@@ -604,7 +569,7 @@ text-decoration: underline;
 }
 .post figure figcaption {
   font-size: 16px;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   color: #bbbbbb;
@@ -660,7 +625,7 @@ text-decoration: underline;
   margin: 0 auto;
   width: 76px;
   font-size: 16px;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 1px;
@@ -718,7 +683,7 @@ footer .small {
   text-align: center;
   display: block;
   width: 100%;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
   color: black;
 }
@@ -785,13 +750,13 @@ footer .prev-posts li span.date {
   margin: 0 1.25%;
   position: relative;
   font-size: 15px;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
   text-align: right;
 }
 footer .social {
 width: 45%;
-margin: 0 0 0 0;
+margin: 0 0 0.5em 0;
 padding: .5em 0 0 0;
 float: right;
 line-height: 1.5em;
@@ -1062,9 +1027,7 @@ a:hover {
 }
 
 p {
-    line-height: 1.5em;      
-    color: #51504c;
-    color: #524656;      
+    line-height: 1.5em;            
     color: #1C140D;
 }
 
@@ -1147,14 +1110,14 @@ nav:hover {
     -o-user-select: none;                
     transition: all 0.2s;  -webkit-transition: all 0.2s;  
     font-family: sans-serif;  letter-spacing: -1px;
-    font-size: 29px;
+    font-size: 34px;
     letter-spacing: -2px;
     color: #CBE86B;
-    text-transform: uppercase;
-    font-weight: 800;              cursor: pointer;
+    text-transform: uppercase;              cursor: pointer;
     padding: 2px;
     position: relative;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
 }
 
 /* when hidden it goes up */
@@ -1225,22 +1188,20 @@ nav.expanded #navigation {
 
 /* adds vertical spacing between menu links */
 #navigation ul li {
-    padding: 1.5em 0 1.5em 0;
+    padding: 1.5em 0 1.2em 0;
 }
 
 /* makes link font bigger */
 #navigation ul a {
-    font-size: 3.3em;
-    font-weight: bold;
+    font-size: 3.8em;
     padding: 0 15%;
-    color: #352C38;
+    font-family: "calendas_plusregular";
     color: #CBE86B;
-    /* color: #EF4135; */
 }
 
 /* subheading span styling */
 #navigation ul span {
-    font-family: Georgia, serif;
+    font-family: "calendas_plusregular",  Georgia, serif;
     font-size: .75em;
     letter-spacing: .2em;
     text-transform: uppercase;
@@ -1451,7 +1412,8 @@ padding-bottom: 18px;
   color: #CBE86B !important;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
+  /* font-weight: 700; */
+  font-family: "calendas_plusregular", "Georgia", serif;
 }
 
 .aboutpage > div {
@@ -1489,7 +1451,7 @@ width: 90%;
 }
 
    .workitemlogo {
-    width: 63%;
+    width: 55%;
     min-height: 1px;
     float: left;
    }
@@ -1502,24 +1464,26 @@ width: 90%;
 }
 
    .workitemdescription {
-    width: 33%;
+    width: 40%;
     margin-left: 24px;
     float: left; 
    }
 
    .workitemdescription h2 {
-    font-size: 16px;
+    font-size: 15px;
     padding-bottom: 10px;
     color: #CBE86B !important;
     text-transform: uppercase;
+   
     font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
-   }
+}
 
 
 
    .workitemdescription h3 {
-    font-size: .8em;}
+    font-size: .8em;
+    font-family: "calendas_plusbold";
+}
 
    .workitemdescription p {
     font-size: 1em;
@@ -1593,7 +1557,7 @@ margin: 0 auto;
 
 .clientdescription h2 {
     display: inline;
-    font-size: 23px;
+    font-size: 17px;
     text-transform: uppercase;
 }
 
@@ -1650,6 +1614,7 @@ background-size: 25px 10px;
 background-image: url(../../images/right_arrow.png);
 background-repeat: no-repeat;
 background-position: right 10px;  
+  font-family: 'Montserrat', sans-serif !important;
 }
 
 .post-list img {
@@ -1685,7 +1650,7 @@ color: #fff !important;
    /* Post Page/ Blog
    ========================================================================== */
 .post p {
-  font-size: 20px;
+  font-size: 21px;
 }
 
 .moreposts {
