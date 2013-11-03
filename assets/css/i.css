@@ -189,7 +189,7 @@ blockquote, blockquote p {
 }
 
 .archive input {
-  font-size: 48px;
+  font-size: 25px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -321,9 +321,12 @@ hr {
 }
 
 input {
-  background: none;
-  border: none;
-  outline: none;
+  /* outline: none; */    
+  /* border: none; */  
+  /* font-family: inherit; */  
+  font-size: 0.875em;  
+  border: 1px solid #ddd;    border-radius: 3px;  
+  -webkit-border-radius: 3px;  -moz-border-radius: 3px;
 }
 
 .archive input {
@@ -490,7 +493,9 @@ float: none;
   font-size: 32px;
   margin-bottom: 66px;
   position: relative;
-  border-bottom: 1px solid #F2E9E1;  margin-top: 2.5em;  margin-bottom: 3em;  padding-bottom: 4em;
+  border-bottom: 1px solid #F2E9E1;  margin-top: 2.5em;  
+  margin-bottom: 3em;  
+  padding-bottom: 2em;
 }
 .archive-wrap .post-list li a {
   position: relative;        
@@ -553,6 +558,10 @@ text-decoration: underline;
   color: #999999;
   margin-bottom: 16.5px;
 }
+.deets a:hover {
+text-decoration: none !important;
+}
+  
 .post h1 {
   font-style: italic;
 }
@@ -700,10 +709,10 @@ footer .list-title {
 footer .prev-posts {
   display: inline;
   float: left;
-  width: 45%;
-  margin: 0 0.5% 0 0.2%;
+  width: 46%;
+  margin: 0 0 0 0.2%;
   max-width: 600px;  
-  padding: .5em 4% 0 1.5%;
+  padding: .5em 0 0 1.5%;
   height: 100%;
 }
 footer .prev-posts p {
@@ -755,8 +764,8 @@ footer .prev-posts li span.date {
   text-align: right;
 }
 footer .social {
-width: 45%;
-margin: 0 0 0.5em 0;
+width: 52%;
+margin: 0 -2em 0.5em 0;
 padding: .5em 0 0 0;
 float: right;
 line-height: 1.5em;
@@ -774,6 +783,13 @@ footer .social ul li:last-child {
 
 .disqus {
   margin-top: 99px;
+}
+
+#linkedinlogo {
+    top: 2px;
+
+    position: relative;
+    right: 4px;
 }
 
 /* Tablet
@@ -1028,7 +1044,7 @@ a:hover {
 
 p {
     line-height: 1.5em;            
-    color: #1C140D;
+
 }
 
 ul {
@@ -1043,7 +1059,7 @@ ul {
 }
 
 #content, footer {
-    max-width: 800px;
+    max-width: 680px;
     margin: 0 auto;
 }
 
@@ -1364,7 +1380,7 @@ footer:hover {
 
 .hrstud {      
   margin-top: 80px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 } 
 
 .hrlong {
@@ -1469,6 +1485,22 @@ width: 90%;
     float: left; 
    }
 
+
+
+
+
+
+
+
+
+   .workitemdescription h3 {
+    font-size: .8em;
+    font-family: "calendas_plusbold";
+    color: white;
+}
+
+
+
    .workitemdescription h2 {
     font-size: 15px;
     padding-bottom: 10px;
@@ -1480,16 +1512,15 @@ width: 90%;
 
 
 
-   .workitemdescription h3 {
-    font-size: .8em;
-    font-family: "calendas_plusbold";
-}
+
 
    .workitemdescription p {
     font-size: 1em;
     line-height: 1.5em;
     margin: 0 0 1.14286em 0;
-   }
+   
+    color: #111111;
+}
 
    .workitem + .workitem { 
     border-top: 0.16em dotted #F2E9E1;
@@ -1503,6 +1534,8 @@ width: 90%;
 .aboutpage h1 a {
   color: #CBE86B;
 }
+
+
 
 
 
@@ -1663,35 +1696,54 @@ color: #fff !important;
    ========================================================================== */
 
 
-li div input  {
-    width: 90%;
-padding: 12px;
-border: none;
-font-family: inherit;
-font-size: 0.875em;
-border: 1px solid #ddd;
-background-color: #fff;
-border-radius: 3px;
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
-  }
-
-
-#Field105 {
-  width: 90%;
-padding: 12px;
-border: none;
-font-family: inherit;
-font-size: 0.875em;
-border: 1px solid #ddd;
-background-color: #fff;
-border-radius: 3px;
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
+.form-label-left {
+  font-size: 25px;
+  position: relative;  
+  color: #CBE86B;  font-family: 'calendas_plusregular', Georgia, serif;
 }
 
-/* Brain Dump
-   ========================================================================== */
+
+.form-submit-button {
+  background-color: #475054;
+  color: #FFFFFF;
+  border: medium none !important;
+  margin-top: 1.8em !important;
+  width: 8em !important;
+  cursor: pointer;
+  background-color: #CBE86B;
+display: inline-block;
+
+  line-height: 34px;
+font-weight: 600;
+border-radius: 40px;
+color: #fff !important;
+transition-property: all;
+transition-duration: .5s;
+-webkit-transition-timing-function: cubic-bezier(0.165,0.630,0.140,0.820);
+-moz-transition-timing-function: cubic-bezier(0.165,0.630,0.140,0.820);
+-ms-transition-timing-function: cubic-bezier(0.165,0.630,0.140,0.820);
+-o-transition-timing-function: cubic-bezier(0.165,0.630,0.140,0.820);
+transition-timing-function: cubic-bezier(0.165,0.630,0.140,0.820);
+background-size: 25px 10px;
+background-repeat: no-repeat;
+background-position: right 10px;
+font-family: 'Montserrat', sans-serif !important;
+}
+
+
+.form-textarea {
+  width: 120%;
+padding: 12px;
+border: none;
+font-family: inherit;
+font-size: 1em;
+border: 1px solid #ddd;
+background-color: #fff;
+border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+  height: 150px;
+}
 
 
 /* Fade-in
