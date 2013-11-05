@@ -493,9 +493,9 @@ float: none;
   font-size: 32px;
   margin-bottom: 66px;
   position: relative;
-  border-bottom: 1px solid #F2E9E1;  margin-top: 2.5em;  
+  border-bottom: 3px solid #F2E9E1;  margin-top: 2.5em;  
   margin-bottom: 3em;  
-  padding-bottom: 2em;
+  padding-bottom: 2em;                
 }
 .archive-wrap .post-list li a {
   position: relative;        
@@ -1888,4 +1888,83 @@ font-size: 1.5em;
 
 
 
+}
+
+
+
+
+
+
+
+
+/* Blog2
+   ========================================================================== */
+
+.postlogolist {
+    padding: 0em;
+ 
+    margin: relative;
+    margin: -18px;
+}
+
+.postlogo {
+width: 100%;
+height: 384px;
+overflow: hidden;
+background-color: #111;
+border-bottom: 1px #000 solid;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: relative;
+display: block;
+}
+
+
+
+.postlogo > div {
+width: 100%;
+margin: 0 auto;
+padding: 32px 0 0;
+position: absolute;
+bottom: 0px;
+/* left: 0; */
+/* right: 0; */
+background-image: linear-gradient(bottom,#000 0,rgba(0,0,0,0) 100%);
+background-image: -o-linear-gradient(bottom,#000 0,rgba(0,0,0,0) 100%);
+background-image: -moz-linear-gradient(bottom,#000 0,rgba(0,0,0,0) 100%);
+background-image: -webkit-linear-gradient(bottom,#000 0,rgba(0,0,0,0) 100%);
+background-image: -ms-linear-gradient(bottom,#000 0,rgba(0,0,0,0) 100%);
+background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,#000),color-stop(1,rgba(0,0,0,0)));
+}
+
+.postlogo > div > h1 {
+font-size: 38px;
+text-align: center;
+margin: 0;
+padding: 0 32px;
+line-height: 44px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+
+.postlogo > div > h1 a {
+  text-decoration: none;
+transition: all 1s;
+color: #fff;
+text-shadow: 0 0 5px rgba(255,255,255,0.5);
+}
+
+.postlogo > div > p {
+font-size: 14px;
+text-align: center;
+color: #fff;
+padding: 0 12px;
+line-height: 24px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+padding: 0;
+margin: 1em;
 }
