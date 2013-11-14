@@ -770,12 +770,9 @@ footer .prev-posts li span.date {
 }
 footer .social {
 width: 52%;
-/* margin: 0 -2em 0.5em 0; */
-/* padding: .5em 0 0 0; */
-/* float: left; */
 line-height: 1.5em;
 color: #aaa;
-padding-bottom: 25px;  
+padding: 25px 0;  
 margin: 0 auto;
 text-align: center;
 }
@@ -1623,8 +1620,6 @@ margin: 0 auto;
 }
 
 .client + .client {
-
-    border-top: 1px solid#bbb;
     
 
     border-width: 3px;
