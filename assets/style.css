@@ -367,7 +367,7 @@ article {
 }
 
 article span {
-  font-size: 28px;
+  font-size: 27px;
 }
 
 article a:hover {
@@ -525,6 +525,8 @@ overflow: hidden;
 text-overflow: ellipsis;
 padding: 0;
 margin: 0 1em;
+max-width: 620px;
+margin: 0 auto;
 }
 
 
@@ -575,37 +577,54 @@ border-bottom: 1px solid #cc092f;
 */
 
 
+  /* Smaller than standard 960 (devices and browsers) */
+  @media only screen and (max-width: 959px) {}
 
+  /* Tablet Portrait size to standard 960 (devices and browsers) */
+  @media only screen and (min-width: 768px) and (max-width: 959px) {}
 
-@media (max-width: 768px) {
-  .fork-me {
-    display: none; }
+  /* All Mobile Sizes (devices and browser) */
+  @media only screen and (max-width: 767px) {
 
-  .wrapper {
-    overflow: hidden; } }
-@media (max-width: 480px) {
-  article {
-    padding: 15px; 
+    .fork-me {
+      display: none; 
+    }
+    .wrapper {
+      overflow: hidden; 
+    } 
+    #top-intro {
+      font-size: 0.9em;
+    }
+    article {
+      padding: 15px; 
+    }
+
   }
 
-  article img {
+  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+  @media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+  @media only screen and (max-width: 479px) {
+
+    article img {
     margin: 0 !important;
     float: none !important;
     min-width: 100% !important; 
-  }
-
-  .pagination {
+    }
+    .pagination {
     font-size: 0;
     overflow: hidden; 
-  }
-    .pagination code {
-      display: none; } 
     }
+    .pagination code {
+      display: none; 
+    } 
+
+  }  
 
 
 
-/*
-
+  /*
 @media screen and (min-width: 800px) {
 
 .postlogo {
@@ -624,7 +643,4 @@ border-bottom: 1px solid #cc092f;
    -webkit-filter: grayscale(0%);
 
 }}
-
-
-
 */
