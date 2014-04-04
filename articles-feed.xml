@@ -3,27 +3,27 @@
 	<title type="text">Kabir Sewani &#8211; Articles</title>
 	<subtitle type="html">Student / Entrepeneur / Tech Enthusiest</subtitle>
 	<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-	<icon>http://localhost:4000/images/icon152.png</icon>
-	<link rel="alternate" type="text/html" href="http://localhost:4000" />
-	<updated>2014-04-04T13:09:11-04:00</updated>
-	<id>http://localhost:4000/</id>
+	<icon>http://kabirsewani.com/images/icon152.png</icon>
+	<link rel="alternate" type="text/html" href="http://kabirsewani.com" />
+	<updated>2014-04-04T13:29:34-04:00</updated>
+	<id>http://kabirsewani.com/</id>
 	<author>
 		<name>Kabir Sewani</name>
-		<uri>http://localhost:4000/</uri>
+		<uri>http://kabirsewani.com/</uri>
 		<email>kabir.sewani@gmail.com</email>
 	</author>
 	<rights>Unless otherwise noted, all content is published under a Creative Commons Attribution-Noncommercial-NoDerivs 3.0 United States License.</rights>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://localhost:4000/articles-feed.xml" />
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://kabirsewani.com/articles-feed.xml" />
 	
 	<entry>
 		<title type="html"><![CDATA[Buyer Decision Process]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/articles/marketing-machine/" />
-		<id>http://localhost:4000/articles/marketing-machine</id>
+		<link rel="alternate" type="text/html" href="http://kabirsewani.com/articles/marketing-machine/" />
+		<id>http://kabirsewani.com/articles/marketing-machine</id>
 		<published>2014-03-10T00:00:00-04:00</published>
 		<updated>2014-03-10T00:00:00-04:00</updated>
 		<author>
 			<name>Kabir Sewani</name>
-			<uri>http://localhost:4000</uri>
+			<uri>http://kabirsewani.com</uri>
 			<email>kabir.sewani@gmail.com</email>
 		</author>
 		<summary type="text">Buyer decision process for athletebuilder.com</summary>
@@ -39,7 +39,7 @@
 &lt;p&gt;Every day, people form impressions of brands from touch points such as advertisements, news reports, conversations with family and friends, and product experiences. Unless consumers are actively shopping, much of that exposure appears wasted. But what happens when something triggers the impulse to buy? Those accumulated impressions then become crucial in shaping the purchase decision process.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;http://localhost:4000/images/mmmockup.png&quot; alt=&quot;Example purchase decision process&quot; /&gt;
+	&lt;img src=&quot;http://kabirsewani.com/images/mmmockup.png&quot; alt=&quot;Example purchase decision process&quot; /&gt;
 	&lt;figcaption&gt;Example purchase decision process &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -76,25 +76,25 @@
 &lt;div class=&quot;&quot;&gt;
   &lt;p&gt;
     Til next time,&lt;br /&gt;
-	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://localhost:4000/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
+	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://kabirsewani.com/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
 	&lt;span class=&quot;entry-date&quot;&gt;&lt;time datetime=&quot;2014-03-10T00:00:00-04:00&quot; itemprop=&quot;datePublished&quot; class=&quot;published updated&quot;&gt;March 10, 2014&lt;/time&gt;&lt;/span&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 &lt;!-- /.notice --&gt;
 
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/marketing-machine/&quot;&gt;Buyer Decision Process&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;http://kabirsewani.com/articles/marketing-machine/&quot;&gt;Buyer Decision Process&lt;/a&gt; was originally published by &lt;a href=&quot;http://kabirsewani.com/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://kabirsewani.com&quot;&gt;Kabir Sewani&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
 	</entry>
 	
 	<entry>
 		<title type="html"><![CDATA[Welcome]]></title>
-		<link rel="alternate" type="text/html" href="http://localhost:4000/articles/welcome/" />
-		<id>http://localhost:4000/articles/welcome</id>
+		<link rel="alternate" type="text/html" href="http://kabirsewani.com/articles/welcome/" />
+		<id>http://kabirsewani.com/articles/welcome</id>
 		<published>2014-03-07T00:00:00-05:00</published>
 		<updated>2014-03-07T00:00:00-05:00</updated>
 		<author>
 			<name>Kabir Sewani</name>
-			<uri>http://localhost:4000</uri>
+			<uri>http://kabirsewani.com</uri>
 			<email>kabir.sewani@gmail.com</email>
 		</author>
 		<summary type="text">Welcome to Kabirsewani.com.</summary>
@@ -107,14 +107,14 @@
 &lt;div class=&quot;&quot;&gt;
   &lt;p&gt;
     Til next time,&lt;br /&gt;
-	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://localhost:4000/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
+	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://kabirsewani.com/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
 	&lt;span class=&quot;entry-date&quot;&gt;&lt;time datetime=&quot;2014-03-07T00:00:00-05:00&quot; itemprop=&quot;datePublished&quot; class=&quot;published updated&quot;&gt;March 07, 2014&lt;/time&gt;&lt;/span&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 &lt;!-- /.notice --&gt;
 
 
-		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/welcome/&quot;&gt;Welcome&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on March 07, 2014.&lt;/p&gt;</content>
+		&lt;p&gt;&lt;a href=&quot;http://kabirsewani.com/articles/welcome/&quot;&gt;Welcome&lt;/a&gt; was originally published by &lt;a href=&quot;http://kabirsewani.com/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://kabirsewani.com&quot;&gt;Kabir Sewani&lt;/a&gt; on March 07, 2014.&lt;/p&gt;</content>
 	</entry>
 	
 </feed>
