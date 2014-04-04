@@ -1,1 +1,0 @@
-The personal site of Kabir Sewani, powered by Jekyll.

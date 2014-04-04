@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title type="text">Kabir Sewani</title>
+	<subtitle type="html">Student / Entrepeneur / Tech Enthusiest</subtitle>
+	<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+	<icon>http://localhost:4000/images/icon152.png</icon>
+	<link rel="alternate" type="text/html" href="http://localhost:4000" />
+	<updated>2014-04-04T13:09:11-04:00</updated>
+	<id>http://localhost:4000/</id>
+	<author>
+		<name>Kabir Sewani</name>
+		<uri>http://localhost:4000/</uri>
+		<email>kabir.sewani@gmail.com</email>
+	</author>
+	<rights>Unless otherwise noted, all content is published under a Creative Commons Attribution-Noncommercial-NoDerivs 3.0 United States License.</rights>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://localhost:4000/atom.xml" />
+	
+	<entry>
+		<title type="html"><![CDATA[Buyer Decision Process]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/articles/marketing-machine/" />
+		<id>http://localhost:4000/articles/marketing-machine</id>
+		<published>2014-03-10T00:00:00-04:00</published>
+		<updated>2014-03-10T00:00:00-04:00</updated>
+		<author>
+			<name>Kabir Sewani</name>
+			<uri>http://localhost:4000</uri>
+			<email>kabir.sewani@gmail.com</email>
+		</author>
+		<content type="html">&lt;p&gt;Consumers today connect with brands in fundamentally new ways, &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have you bought something today?&lt;/li&gt;
+  &lt;li&gt;Have you seen or heard an ad today?&lt;/li&gt;
+  &lt;li&gt;Have you consumed something today?&lt;/li&gt;
+  &lt;li&gt;Have you have talked about a product/ service today?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Every day, people form impressions of brands from touch points such as advertisements, news reports, conversations with family and friends, and product experiences. Unless consumers are actively shopping, much of that exposure appears wasted. But what happens when something triggers the impulse to buy? Those accumulated impressions then become crucial in shaping the purchase decision process.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://localhost:4000/images/mmmockup.png&quot; alt=&quot;Example purchase decision process&quot; /&gt;
+	&lt;figcaption&gt;Example purchase decision process &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;need-recognition--problem-recognition&quot;&gt;Need recognition / Problem recognition&lt;/h3&gt;
+&lt;p&gt;The need recognition is the first and most important step in the buying process. If there is no need, there is no purchase. This recognition happens when there is a gap between the consumers actual situation and the ideal or desired one.&lt;/p&gt;
+
+&lt;h3 id=&quot;information-search&quot;&gt;Information search&lt;/h3&gt;
+&lt;p&gt;Once the need is identified, the consumer begins to search for information about possible solutions to the problem. He will search more or less depending on the complexity of the decision and his level of involvement. (E.g. Buying milk requires less involvement and involves fewer information than buying a car.)&lt;/p&gt;
+
+&lt;p&gt;During his decision-making process, the consumer will pay more attention to his internal information and primary information from friends, family or other consumers. It will be judged as more “objective” than information from an advertisement, a seller’s speech or a commercial brochure of the product.&lt;/p&gt;
+
+&lt;h3 id=&quot;alternative-evaluation&quot;&gt;Alternative Evaluation&lt;/h3&gt;
+&lt;p&gt;Once the information collected, the consumer will be able to evaluate the different alternatives that are available to him, evaluate what&amp;#8217;s most suitable to his needs and choose the one he think is best for him.&lt;/p&gt;
+
+&lt;p&gt;In order to do so, he will evaluate their attributes on two aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The objective characteristics (such as the features and functionality of the product)  &lt;/li&gt;
+  &lt;li&gt;The subjective characteristics (perception and perceived value of the brand by the consumer or its reputation).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Each consumer does not attribute the same importance to each attribute, it varies from one shopper to another. The consumer will then use the information to establish an evaluation criteria. Desirable or wanted features are used to rank the differentiate products available and evaluate which alternative will most satisfy him.&lt;/p&gt;
+
+&lt;h3 id=&quot;purchase-decision&quot;&gt;Purchase Decision&lt;/h3&gt;
+&lt;p&gt;Now that the consumer has evaluated the different solutions and products available, he will be able to choose the product or brand that best fits his needs.&lt;/p&gt;
+
+&lt;p&gt;His decision will depend on the information and the selection made in the previous step based on the perceived value, product’s features and capabilities that are important to him. But his Consumer Buying Decision Process and his decision process may also depend or be affected by such things as the quality of his shopping experience or of the store (or online shopping website), the availability of a promotion, a return policy or good terms and conditions for the sale.&lt;/p&gt;
+
+&lt;h3 id=&quot;post-purchase-behavior&quot;&gt;Post purchase behavior&lt;/h3&gt;
+&lt;p&gt;The consumers satisfaction shapes his future buying behavior. A satisfied customer is very likely to become a loyal and regular customer. Especially for routine purchases with low level of involvement.&lt;/p&gt;
+
+&lt;p&gt;Positive or negative, consumers will also be able to share their opinion on the brand. Whether in their family or by word-of-mouth. Or on a much broader scale now with social networks or on consumer product review websites.&lt;/p&gt;
+
+&lt;div class=&quot;&quot;&gt;
+  &lt;p&gt;
+    Til next time,&lt;br /&gt;
+	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://localhost:4000/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
+	&lt;span class=&quot;entry-date&quot;&gt;&lt;time datetime=&quot;2014-03-10T00:00:00-04:00&quot; itemprop=&quot;datePublished&quot; class=&quot;published updated&quot;&gt;March 10, 2014&lt;/time&gt;&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /.notice --&gt;
+
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/marketing-machine/&quot;&gt;Buyer Decision Process&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on March 10, 2014.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Welcome]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/articles/welcome/" />
+		<id>http://localhost:4000/articles/welcome</id>
+		<published>2014-03-07T00:00:00-05:00</published>
+		<updated>2014-03-07T00:00:00-05:00</updated>
+		<author>
+			<name>Kabir Sewani</name>
+			<uri>http://localhost:4000</uri>
+			<email>kabir.sewani@gmail.com</email>
+		</author>
+		<content type="html">&lt;p&gt;Welcome to my blog—here is where I will share thoughts and perspectives on startups, marketing, and the process of starting, iterating and growing &lt;a href=&quot;http://athletebuilder.com/&quot;&gt;Athlete Builder&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;I’m super excited to see how this experiment goes.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to subscribe to the feed  or &lt;a href=&quot;https://twitter.com/beeriest&quot;&gt;follow me on twitter&lt;/a&gt; for alerts on posts.&lt;/p&gt;
+
+&lt;div class=&quot;&quot;&gt;
+  &lt;p&gt;
+    Til next time,&lt;br /&gt;
+	&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot; class=&quot;fn&quot;&gt;&lt;a href=&quot;http://localhost:4000/about/&quot; title=&quot;About Kabir Sewani&quot; itemprop=&quot;url&quot;&gt;Kabir Sewani&lt;/a&gt;&lt;/span&gt; on &lt;/span&gt;
+	&lt;span class=&quot;entry-date&quot;&gt;&lt;time datetime=&quot;2014-03-07T00:00:00-05:00&quot; itemprop=&quot;datePublished&quot; class=&quot;published updated&quot;&gt;March 07, 2014&lt;/time&gt;&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /.notice --&gt;
+
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/welcome/&quot;&gt;Welcome&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on March 07, 2014.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Athlete Builder]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/work/athlete-builder/" />
+		<id>http://localhost:4000/work/athlete-builder</id>
+		<published>2013-10-16T00:00:00-04:00</published>
+		<updated>2013-10-16T00:00:00-04:00</updated>
+		<author>
+			<name>Kabir Sewani</name>
+			<uri>http://localhost:4000</uri>
+			<email>kabir.sewani@gmail.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/21.gif&quot; alt=&quot;Athlete Builder page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I am the Marketing Director for Athlete Builder.&lt;/p&gt;
+
+&lt;p&gt;This business was launched with the burning desire to make it easier for athletes everywhere to access the information they need to watch, learn and progress in their respective sport. Our first learning program is Football Academy and it will be released Spring 2014. In addition, we will offer supplimentary videos for all of our members that focus on health and safety, sports medicine and injury prevention as well as strength and conditioning.&lt;/p&gt;
+
+&lt;p&gt;If you’re curious to learn more and would like to inquire more about participating in this opportunity, please contact me directly. You can also engage with us on Facebook: http://facebook.com/athletebuilder&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/work/athlete-builder/&quot;&gt;Athlete Builder&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on October 16, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+	<entry>
+		<title type="html"><![CDATA[Vonical]]></title>
+		<link rel="alternate" type="text/html" href="http://localhost:4000/work/vonical/" />
+		<id>http://localhost:4000/work/vonical</id>
+		<published>2013-08-27T00:00:00-04:00</published>
+		<updated>2013-08-27T00:00:00-04:00</updated>
+		<author>
+			<name>Kabir Sewani</name>
+			<uri>http://localhost:4000</uri>
+			<email>kabir.sewani@gmail.com</email>
+		</author>
+		<content type="html">&lt;img src=&quot;http://localhost:4000/images/von.jpg&quot; alt=&quot;Vonical page image&quot;&gt;&lt;br/&gt;&lt;p&gt;I am a project manager at VONICAL.&lt;/p&gt;
+
+&lt;p&gt;VONICAL helps organizations rapidly build, test and deploy custom software and field enablement solutions to improve their sales delivery and effectiveness. We provide sales enablement as a managed service for Fortune500 companies including Cardinal Health, Trend Micro, AirLiquid. Our philosophy is that we don’t just solve a problem, we work hard to define what the problem is.&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://localhost:4000/work/vonical/&quot;&gt;Vonical&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot;&gt;Kabir Sewani&lt;/a&gt; at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kabir Sewani&lt;/a&gt; on August 27, 2013.&lt;/p&gt;</content>
+	</entry>
+	
+</feed>

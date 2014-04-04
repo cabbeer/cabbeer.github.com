@@ -1,0 +1,29 @@
+/* ABOUT */
+
+   Designer:    Kabir Sewani
+   Twitter:     @beeriest
+   Location:    Ottawa, ON Canada
+
+/* SITE */
+
+   Language:    English
+   Built with:  Jekyll <http://jekyllrb.com>
+                LESS
+                jQuery
+                Magnific Popup <https://github.com/dimsemenov/Magnific-Popup>
+                FitVids <http://fitvidsjs.com>
+                Respond <https://github.com/scottjehl/Respond>
+                Adobe Creative Suite (RIP)
+                Sublime Text
+                Grunt <http://gruntjs.com>
+                HTML Compressor <https://code.google.com/p/htmlcompressor>
+
+/* SPECIAL THANKS */
+
+mademistakes.co
+   Designer:    Michael Rose
+   Twitter:     @mmistakes
+
+This blog is based on the work of Michael Ross. 
+He has gracously made his work available for re-use ON (micheal ross github).
+I intend to pay it forwayd, if you like what you see grab a copy at (my githuub).
